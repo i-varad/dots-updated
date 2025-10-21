@@ -1,0 +1,37 @@
+2025/07/16-09:36:44.936 8a5 Creating DB /home/zoro/.config/google-chrome/Profile 3/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2025/07/16-09:36:44.942 8a5 Reusing MANIFEST /home/zoro/.config/google-chrome/Profile 3/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/16-09:36:50.346 8a5 Level-0 table #5: started
+2025/07/16-09:36:50.378 8a5 Level-0 table #5: 1245830 bytes OK
+2025/07/16-09:36:50.381 8a5 Delete type=0 #3
+2025/07/16-09:36:50.503 8a5 Level-0 table #7: started
+2025/07/16-09:36:50.533 8a5 Level-0 table #7: 1486985 bytes OK
+2025/07/16-09:36:50.536 8a5 Delete type=0 #4
+2025/07/16-09:36:50.541 8a5 Compacting 1@1 + 1@2 files
+2025/07/16-09:36:50.600 8a5 Generated table #8@1: 11501 keys, 2152544 bytes
+2025/07/16-09:36:50.619 8a5 Generated table #9@1: 3610 keys, 539842 bytes
+2025/07/16-09:36:50.619 8a5 Compacted 1@1 + 1@2 files => 2692386 bytes
+2025/07/16-09:36:50.621 8a5 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/07/16-09:36:50.621 8a5 Delete type=2 #5
+2025/07/16-09:36:50.622 8a5 Delete type=2 #7
+2025/07/16-09:36:50.638 8a5 Level-0 table #11: started
+2025/07/16-09:36:50.669 8a5 Level-0 table #11: 1292515 bytes OK
+2025/07/16-09:36:50.673 8a5 Delete type=0 #6
+2025/07/16-09:36:50.678 8a5 Compacting 1@1 + 2@2 files
+2025/07/16-09:36:50.754 8a5 Generated table #12@1: 13937 keys, 2145533 bytes
+2025/07/16-09:36:50.796 8a5 Generated table #13@1: 6914 keys, 1827106 bytes
+2025/07/16-09:36:50.797 8a5 Compacted 1@1 + 2@2 files => 3972639 bytes
+2025/07/16-09:36:50.799 8a5 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/07/16-09:36:50.799 8a5 Delete type=2 #9
+2025/07/16-09:36:50.799 8a5 Delete type=2 #11
+2025/07/16-09:36:50.799 8a5 Delete type=2 #8
+2025/07/16-09:36:51.241 8a5 Level-0 table #15: started
+2025/07/16-09:36:51.278 8a5 Level-0 table #15: 616591 bytes OK
+2025/07/16-09:36:51.281 8a5 Delete type=0 #10
+2025/07/16-09:38:58.962 8a5 Compacting 1@1 + 2@2 files
+2025/07/16-09:38:59.038 8a5 Generated table #16@1: 2006 keys, 2128171 bytes
+2025/07/16-09:38:59.067 8a5 Generated table #17@1: 11863 keys, 1534778 bytes
+2025/07/16-09:38:59.067 8a5 Compacted 1@1 + 2@2 files => 3662949 bytes
+2025/07/16-09:38:59.070 8a5 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/07/16-09:38:59.071 8a5 Delete type=2 #13
+2025/07/16-09:38:59.071 8a5 Delete type=2 #15
+2025/07/16-09:38:59.071 8a5 Delete type=2 #12

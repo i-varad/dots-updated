@@ -1,0 +1,34 @@
+2025/06/14-13:51:02.176 6b0 Reusing MANIFEST /home/zoro/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/06/14-13:51:02.177 6b0 Recovering log #288
+2025/06/14-13:51:02.177 6b0 Reusing old log /home/zoro/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000288.log 
+2025/06/14-13:51:02.177 6b0 Delete type=2 #286
+2025/06/14-13:51:02.185 6a6 Level-0 table #293: started
+2025/06/14-13:51:02.187 6a6 Level-0 table #293: 4707 bytes OK
+2025/06/14-13:51:02.189 6a6 Delete type=0 #288
+2025/06/14-13:51:02.190 6a4 Manual compaction at level-0 from '\x00\\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00]\x00\x00\x00' @ 0 : 0; will stop at '\x00\\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10936 : 1
+2025/06/14-13:51:02.190 6a4 Compacting 1@0 + 1@1 files
+2025/06/14-13:51:02.192 6a4 Generated table #294@0: 1007 keys, 11773 bytes
+2025/06/14-13:51:02.192 6a4 Compacted 1@0 + 1@1 files => 11773 bytes
+2025/06/14-13:51:02.195 6a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/14-13:51:02.195 6a4 Delete type=2 #293
+2025/06/14-13:51:02.195 6a4 Manual compaction at level-0 from '\x00\\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10936 : 1 .. '\x00]\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/14-13:52:07.088 6a5 Level-0 table #296: started
+2025/06/14-13:52:07.090 6a5 Level-0 table #296: 6571 bytes OK
+2025/06/14-13:52:07.092 6a5 Delete type=0 #292
+2025/06/14-13:52:07.092 6a5 Delete type=2 #290
+2025/06/14-13:52:07.093 6a5 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11049 : 1
+2025/06/14-13:52:07.093 6a5 Compacting 1@0 + 1@1 files
+2025/06/14-13:52:07.096 6a5 Generated table #297@0: 1029 keys, 15066 bytes
+2025/06/14-13:52:07.097 6a5 Compacted 1@0 + 1@1 files => 15066 bytes
+2025/06/14-13:52:07.099 6a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/14-13:52:07.099 6a5 Delete type=2 #294
+2025/06/14-13:52:07.100 6a5 Delete type=2 #296
+2025/06/14-13:52:07.100 6a5 Manual compaction at level-0 from '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11049 : 1 .. (end); will stop at (end)
+2025/06/14-13:52:07.100 6a5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11049 : 1
+2025/06/14-13:52:07.100 6a5 Compacting 1@1 + 1@2 files
+2025/06/14-13:52:07.103 6a5 Generated table #298@1: 60 keys, 4367 bytes
+2025/06/14-13:52:07.103 6a5 Compacted 1@1 + 1@2 files => 4367 bytes
+2025/06/14-13:52:07.105 6a5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/14-13:52:07.105 6a5 Delete type=2 #60
+2025/06/14-13:52:07.106 6a5 Delete type=2 #297
+2025/06/14-13:52:07.106 6a5 Manual compaction at level-1 from '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11049 : 1 .. (end); will stop at (end)

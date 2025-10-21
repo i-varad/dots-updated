@@ -1,0 +1,3 @@
+2025/01/04-13:10:41.094 2d87 Creating DB /home/zoro/.config/discord/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
+2025/01/04-13:10:41.098 2d87 Reusing MANIFEST /home/zoro/.config/discord/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/04-13:10:41.127 2db2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

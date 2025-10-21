@@ -1,0 +1,6 @@
+2025/07/12-14:40:56.139 bbf Reusing MANIFEST /home/zoro/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2025/07/12-14:40:56.141 bbf Recovering log #26
+2025/07/12-14:40:56.147 bbf Reusing old log /home/zoro/.config/google-chrome/Profile 1/Sync Data/LevelDB/000026.log 
+2025/07/12-14:41:46.063 bbe Level-0 table #30: started
+2025/07/12-14:41:46.070 bbe Level-0 table #30: 111506 bytes OK
+2025/07/12-14:41:46.073 bbe Delete type=0 #26

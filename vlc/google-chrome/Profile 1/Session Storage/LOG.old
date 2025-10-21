@@ -1,0 +1,27 @@
+2025/07/12-14:40:56.246 4 Reusing MANIFEST /home/zoro/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2025/07/12-14:40:56.247 4 Recovering log #20
+2025/07/12-14:40:56.248 4 Reusing old log /home/zoro/.config/google-chrome/Profile 1/Session Storage/000020.log 
+2025/07/12-15:09:30.226 5 Level-0 table #24: started
+2025/07/12-15:09:30.231 5 Level-0 table #24: 17223 bytes OK
+2025/07/12-15:09:30.234 5 Delete type=0 #20
+2025/07/12-15:25:30.226 5 Level-0 table #26: started
+2025/07/12-15:25:30.229 5 Level-0 table #26: 18326 bytes OK
+2025/07/12-15:25:30.233 5 Delete type=0 #23
+2025/07/12-15:43:30.226 5 Level-0 table #28: started
+2025/07/12-15:43:30.230 5 Level-0 table #28: 17740 bytes OK
+2025/07/12-15:43:30.234 5 Delete type=0 #25
+2025/07/12-15:43:30.235 5 Compacting 4@0 + 1@1 files
+2025/07/12-15:43:30.240 5 Generated table #29@0: 368 keys, 13465 bytes
+2025/07/12-15:43:30.240 5 Compacted 4@0 + 1@1 files => 13465 bytes
+2025/07/12-15:43:30.243 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/12-15:43:30.244 5 Delete type=2 #24
+2025/07/12-15:43:30.245 5 Delete type=2 #21
+2025/07/12-15:43:30.245 5 Delete type=2 #26
+2025/07/12-15:43:30.245 5 Delete type=2 #28
+2025/07/12-15:43:30.245 5 Delete type=2 #19
+2025/07/12-15:54:30.226 5 Level-0 table #31: started
+2025/07/12-15:54:30.232 5 Level-0 table #31: 19066 bytes OK
+2025/07/12-15:54:30.234 5 Delete type=0 #27
+2025/07/12-16:18:30.226 5 Level-0 table #33: started
+2025/07/12-16:18:30.232 5 Level-0 table #33: 14826 bytes OK
+2025/07/12-16:18:30.236 5 Delete type=0 #30

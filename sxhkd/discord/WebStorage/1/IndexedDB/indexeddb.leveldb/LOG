@@ -1,0 +1,7 @@
+2025/01/04-13:08:05.957 2d87 Reusing MANIFEST /home/zoro/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/04-13:08:05.957 2d87 Recovering log #3
+2025/01/04-13:08:05.958 2d87 Reusing old log /home/zoro/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000003.log 
+2025/01/04-13:08:06.133 2db2 Level-0 table #5: started
+2025/01/04-13:08:06.134 2db2 Level-0 table #5: 2871 bytes OK
+2025/01/04-13:08:06.137 2db2 Delete type=0 #3
+2025/01/04-13:08:06.137 2d87 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

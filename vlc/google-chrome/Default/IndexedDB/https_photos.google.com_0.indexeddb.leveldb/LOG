@@ -1,0 +1,18 @@
+2025/07/14-14:09:48.072 63b Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/14-14:09:48.074 63b Recovering log #12
+2025/07/14-14:09:48.106 63b Reusing old log /home/zoro/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000012.log 
+2025/07/14-14:09:48.106 63b Delete type=2 #13
+2025/07/14-14:09:48.106 63b Delete type=2 #9
+2025/07/14-14:09:48.106 63b Delete type=2 #10
+2025/07/14-14:09:53.082 63c Level-0 table #18: started
+2025/07/14-14:09:53.123 63c Level-0 table #18: 2462436 bytes OK
+2025/07/14-14:09:53.127 63c Delete type=0 #12
+2025/07/14-14:09:53.148 63d Compacting 1@1 + 2@2 files
+2025/07/14-14:09:53.180 63d Generated table #19@1: 3761 keys, 2142941 bytes
+2025/07/14-14:09:53.211 63d Generated table #20@1: 9723 keys, 2164280 bytes
+2025/07/14-14:09:53.215 63d Generated table #21@1: 581 keys, 109908 bytes
+2025/07/14-14:09:53.215 63d Compacted 1@1 + 2@2 files => 4417129 bytes
+2025/07/14-14:09:53.217 63d compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/07/14-14:09:53.217 63d Delete type=2 #15
+2025/07/14-14:09:53.217 63d Delete type=2 #18
+2025/07/14-14:09:53.217 63d Delete type=2 #14

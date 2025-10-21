@@ -1,0 +1,6 @@
+2025/06/14-13:58:46.081 6a5 Creating DB /home/zoro/.config/google-chrome/Default/IndexedDB/https_timesofindia.indiatimes.com_0.indexeddb.leveldb since it was missing.
+2025/06/14-13:58:46.086 6a5 Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_timesofindia.indiatimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/14-13:59:08.452 6a4 Level-0 table #5: started
+2025/06/14-13:59:08.454 6a4 Level-0 table #5: 1041 bytes OK
+2025/06/14-13:59:08.456 6a4 Delete type=0 #3
+2025/06/14-13:59:08.456 6a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

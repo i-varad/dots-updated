@@ -1,0 +1,6 @@
+2025/06/03-12:00:38.479 66e Creating DB /home/zoro/.config/google-chrome/Default/IndexedDB/https_a-srd.agoda.com_0.indexeddb.leveldb since it was missing.
+2025/06/03-12:00:38.484 66e Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_a-srd.agoda.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-12:00:44.796 67b Level-0 table #5: started
+2025/06/03-12:00:44.799 67b Level-0 table #5: 4615 bytes OK
+2025/06/03-12:00:44.802 67b Delete type=0 #3
+2025/06/03-12:00:44.802 66f Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

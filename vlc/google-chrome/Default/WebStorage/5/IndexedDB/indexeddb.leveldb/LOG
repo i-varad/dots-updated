@@ -1,0 +1,14 @@
+2025/06/14-14:02:24.777 6a4 Reusing MANIFEST /home/zoro/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/06/14-14:02:24.778 6a4 Recovering log #295
+2025/06/14-14:02:24.778 6a4 Reusing old log /home/zoro/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000295.log 
+2025/06/14-14:02:24.785 6a6 Level-0 table #301: started
+2025/06/14-14:02:24.787 6a6 Level-0 table #301: 772 bytes OK
+2025/06/14-14:02:24.800 6a6 Delete type=0 #295
+2025/06/14-14:02:24.801 6a6 Manual compaction at level-0 from '\x00]\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00^\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/14-14:02:24.801 6a6 Manual compaction at level-1 from '\x00]\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00^\x00\x00\x00' @ 0 : 0; will stop at '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11101 : 0
+2025/06/14-14:02:24.801 6a6 Compacting 1@1 + 1@2 files
+2025/06/14-14:02:24.803 6a6 Generated table #302@1: 42 keys, 1118 bytes
+2025/06/14-14:02:24.803 6a6 Compacted 1@1 + 1@2 files => 1118 bytes
+2025/06/14-14:02:24.805 6a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/14-14:02:24.805 6a6 Delete type=2 #301
+2025/06/14-14:02:24.805 6a4 Manual compaction at level-1 from '\x00]\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xa7r\xd8vyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 11101 : 0 .. '\x00^\x00\x00\x00' @ 0 : 0; will stop at (end)

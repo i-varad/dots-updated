@@ -1,0 +1,112 @@
+{
+   "checksum": "72141deadca89125d610b04eae7c0a7a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342189841944876",
+            "date_last_used": "0",
+            "guid": "7a4d30b6-f756-4aeb-a086-19b79e166aa0",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DevFest Pune",
+            "type": "url",
+            "url": "https://devfest.gdgpune.in/"
+         } ],
+         "date_added": "13372423568694747",
+         "date_last_used": "0",
+         "date_modified": "13342189841944876",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341048396020715",
+            "date_last_used": "0",
+            "guid": "2c69c9de-870f-49c6-929f-82b8854f326f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Cloud Skills Boost",
+            "type": "url",
+            "url": "https://www.cloudskillsboost.google/journeys/36"
+         }, {
+            "date_added": "13341275358991880",
+            "date_last_used": "0",
+            "guid": "337a6e29-c6ff-41a6-b083-a2e83e5c0a2f",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How I Received Google Home, Google Assistant T-shirt and 200$ Credit Every Month for Google Cloud | Actions on Google | by Harshil Patel | Voice Tech Podcast | Medium",
+            "type": "url",
+            "url": "https://medium.com/voice-tech-podcast/how-i-received-google-home-google-assistant-t-shirt-and-200-credit-every-month-for-google-cloud-bc3134b721bb"
+         }, {
+            "children": [ {
+               "date_added": "13341496834511281",
+               "date_last_used": "0",
+               "guid": "8a1d8ffa-4c4e-4deb-9209-ddf3773ae16f",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Your Journey2Salesforce Learning Path Trailmix | Salesforce Trailhead",
+               "type": "url",
+               "url": "https://trailhead.salesforce.com/users/journeytosalesforce/trailmixes/your-journey-2-salesforce-learning-path"
+            } ],
+            "date_added": "13341496853311272",
+            "date_last_used": "0",
+            "date_modified": "13341496853311272",
+            "guid": "cc3935dd-d856-4ab5-b794-3c948865f74f",
+            "id": "7",
+            "name": "Salesforce",
+            "type": "folder"
+         }, {
+            "date_added": "13346269337900620",
+            "date_last_used": "0",
+            "guid": "e310ba99-03e0-4680-9242-6ff870aaaf19",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(3) WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13347613515610969",
+            "date_last_used": "0",
+            "guid": "19ad4306-2bf6-4db1-8164-5f2a0a83fdaf",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Cloud Skills Boost",
+            "type": "url",
+            "url": "https://www.cloudskillsboost.google/paths"
+         } ],
+         "date_added": "13372423568694751",
+         "date_last_used": "0",
+         "date_modified": "13347613515610969",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372423568694755",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpgCCvcBCIiBAhLwASAAkgHqAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJxrRjto8jBgARxrRjto8jBgAiNAl5b022jyMGABADGe1bBbp7NAcXIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAl5b022jyMGABADGe1bBbp7NAcXIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpfwhkto8jBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAbsSxjyMGABGAbsSxjyMGACkFCWS2jyMGADCA3ZGO+/GIAxIAKhhFdEF6UmVmYkxaWkJxTmJFcm9ubFdnPT1IAxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndzMXNmc1JMWTFVNnlaZldKQ3ZveitjQzVNQjB0c0xDdWFqZUExRnRqcmxpOER4THFUY0hySmFwWkVhVmMvcytNYURBSnlDU1Juc1J4MWZjSXRteVFORklsWVhRPT0YACAAKAAwwZDvz/KfgwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgLEuYBChxDdjNmKzFGSFNPNjRmSndCd04wQmNLa21JdDQ9EmZaOkFEcXRBWnlweFRBUXZRSVJIRkdydUFNUWpkK0piTkpLUjFXbDFkN2NWbHMrTlZyMzJ2ajE1ell6ek1yclFZcm5JdyszblZJQkI0bUhZZ2ZldGcrZ00rMXVPVXhobDVSNXJnPT0YACAAKAAwlNu90fKfgwM4mYyYvrQxQJmMmL60MUocL25aTVdkMFNETXRVN0RIQVoyS0JQK2pTSGlBPVoeIhxEcVlMeWNkaXVXYkxSWENUTEpzTG01VTRiZkk9ZaPzhCASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5bzE2K0hocmxBeGpRcXRScDhaejArR1M2Y0prekNUZi9KanBxMHVVRWZXYTlET21QZCtMQndXT2o3bklSS09LL1NTa3pxGAAgACgAMMGQ78/yn4MDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIChLnAQocQmxEUG9KZ0Jra1BYQklpSXc1cGQ3ZEw5YlRnPRJmWjpBRHF0QVp5cHhUQVF2UUlSSEZHcnVBTVFqZCtKQ1E0THJyWjliVlBVQnZFTWJOY1VkWmZhZmhtNm1oTDZMeDlDNHo0S1Q5Qjh5YXVlNjc5YWtqWlJsd3M1NldVa1R6cHB2dz09GAAgACgAMJTbvdHyn4MDOPehs9jIMUD3obPYyDFKHEZkczZXdTdMRlNnNjhDelhuMnd6VHk2ci9yOD1aHyId+jczMWVJbHo0T3gwek1sZmhsQVJaMGFzaVhEQT1ldXXEUxLsAQgJEucBChwrRE5OVURKZW91QXVFQnYzRE5DWDh3ckMzV1E9EmZaOkFEcXRBWnlweFRBUXZRSVJIRkdydUFNUWpkK0pmNm1USzgzd1VLa0RkZW13WVkxV3RlSm5GNTVNNkhZMWkzZERCSEpMbEpoRVArVCtIZ0pyVTlmbFFhekh6aWg3OTRBUUNBPT0YACAAKAAwlNu90fKfgwM496Gz2MgxQPehs9jIMUoccmRXY1Y2cjlZazU3MXpCNHRTbnlMaUhWQ2dvPVofIh30Ty9OREdIbmozQzhZK2ZuU1Byc0EvUE05VlNJPWX91iByEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad3RocFBHQXF0YlNoYkxGMXY0SCtQaVUzNVNtZkR5OHZmeGEvYUQ1czY1aXFOQzY4Q3k4STUxQ2lFem5xdUsxTUdQYlRYcXJEUm4xUXREaDNNWStzNDM4a28wdnc9PRgAIAAoADDBkO/P8p+DAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAgS5gEKHFZ1cE1oeldkRUNidllKci9LWnNGWlJVYlVudz0SZlo6QURxdEFaeXB4VEFRdlFJUkhGR3J1QU1RamQrSlpJeWp3bVY0Um1WcGV0WFFZZ3VJdjVORVg5QlhFNFFHd2hneC9UT2dBYXpWRHMyY2IydU9rbWNTVlhKRVFHSFFhblRtcHc9PRgAIAAoADDdq9Ge8O2BAzjPo97zsTFAz6Pe87ExShw1czR4Tlh0K09DYXlxUEZ1aFNLOVNqV1QvL1k9Wh4iHEJ4SmZDMTFnTXh0L1NndG9Ia1NzL056cXZ2MD1lXl9QDRLsAQgHEucBChxqdWUrVkhXUm9zYklsZm1xZEdBb1JXT1NDVEk9EmZaOkFEcXRBWnlweFRBUXZRSVJIRkdydUFNUWpkK0phWlQycFp5ZHdmYjFDUkV2Vm1xZ3NLOHdHeU5JOU1nb0d3bHRCY1FzbnhLQXMvZ2xqMjZLenV5RTlIWVNFa3Qyd2YyektRPT0YACAAKAAw3avRnvDtgQM4v7bf87ExQL+23/OxMUocUHV2R3p0SnZBelM5NHl6azFWS3hIeGQ0U1hVPVofIh3oanc0Qm1nNW1ta0wyQjFWWHZGcW5Cckc5d2NjPWUAAAAAEuwBCAYS5wEKHDkyZGJkSGUvYW9yYnNRYlRldnYwU3hNSlVPYz0SZlo6QURxdEFaeXB4VEFRdlFJUkhGR3J1QU1RamQrSlRNZS92cUFTWURJdVAxSnRMcVZzK3F1VXJqMExaNEJtVTVyTjJDS0tlT0xOL3lSNlZOQkpERU4zUUtWUHhhcWdFd04vRkE9PRgAIAAoADCh95SOt+eBAziQvpCKsTFAkL6QirExShxnV0d3Vk9reW81Sm5wREhWWS9ScGJDc250bGM9Wh8iHaI4RzJHNExIeFdJckc4R0hkL21ZSmg3TUFaa1U9ZVuFQ2MS6wEIBRLmAQocQ1prN1pRSXVRSUEzV3QweXNYSVAvS21KT2ZVPRJmWjpBRHF0QVp5cHhUQVF2UUlSSEZHcnVBTVFqZCtKY29qY3ErV0ZpWVphc1JJYzc0Y294d2lWbjJlcHZlSFY5TVFTaUloUkdiK3RiV080WWpoNlRuTndTaTJpcERaUmVnTG9mUT09GAAgACgAMKSezs/p4IEDOPXh852wMUD14fOdsDFKHC83dnh5d29aa0ppcS90OXlwb2V2bFY3OW50cz1aHiIcRHh5Z1pkS0NCeUVJbis5M0cyWFhDTFNVdWk4PWV1dcRTMAE4AA==",
+   "version": 1
+}

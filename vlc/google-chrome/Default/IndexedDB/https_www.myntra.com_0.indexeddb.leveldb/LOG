@@ -1,0 +1,36 @@
+2025/05/26-10:19:48.012 13ac Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/26-10:19:48.012 13ac Recovering log #24
+2025/05/26-10:19:48.012 13ac Reusing old log /home/zoro/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/000024.log 
+2025/05/26-10:19:48.012 13ac Delete type=2 #22
+2025/05/26-10:19:49.058 13b7 Level-0 table #29: started
+2025/05/26-10:19:49.061 13b7 Level-0 table #29: 15274 bytes OK
+2025/05/26-10:19:49.063 13b7 Delete type=0 #24
+2025/05/26-10:19:49.063 13a9 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 4516 : 1
+2025/05/26-10:19:49.064 13a9 Compacting 1@0 + 1@1 files
+2025/05/26-10:19:49.066 13a9 Generated table #30@0: 1457 keys, 18662 bytes
+2025/05/26-10:19:49.066 13a9 Compacted 1@0 + 1@1 files => 18662 bytes
+2025/05/26-10:19:49.069 13a9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:19:49.069 13a9 Delete type=2 #29
+2025/05/26-10:19:49.069 13a9 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 4516 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/26-10:20:04.087 13ac Level-0 table #32: started
+2025/05/26-10:20:04.089 13ac Level-0 table #32: 8997 bytes OK
+2025/05/26-10:20:04.091 13ac Delete type=0 #28
+2025/05/26-10:20:04.091 13ac Delete type=2 #26
+2025/05/26-10:20:04.091 13aa Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 4755 : 1
+2025/05/26-10:20:04.091 13aa Compacting 1@0 + 1@1 files
+2025/05/26-10:20:04.094 13aa Generated table #33@0: 1467 keys, 18636 bytes
+2025/05/26-10:20:04.094 13aa Compacted 1@0 + 1@1 files => 18636 bytes
+2025/05/26-10:20:04.096 13aa compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:20:04.097 13aa Delete type=2 #32
+2025/05/26-10:20:04.097 13aa Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 4755 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/26-10:21:29.024 13ac Level-0 table #35: started
+2025/05/26-10:21:29.026 13ac Level-0 table #35: 9264 bytes OK
+2025/05/26-10:21:29.029 13ac Delete type=0 #31
+2025/05/26-10:21:29.029 13ac Delete type=2 #30
+2025/05/26-10:21:29.029 13aa Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 5000 : 1
+2025/05/26-10:21:29.029 13aa Compacting 1@0 + 1@1 files
+2025/05/26-10:21:29.032 13aa Generated table #36@0: 1479 keys, 19044 bytes
+2025/05/26-10:21:29.033 13aa Compacted 1@0 + 1@1 files => 19044 bytes
+2025/05/26-10:21:29.034 13aa compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:21:29.035 13aa Delete type=2 #35
+2025/05/26-10:21:29.035 13aa Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 5000 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

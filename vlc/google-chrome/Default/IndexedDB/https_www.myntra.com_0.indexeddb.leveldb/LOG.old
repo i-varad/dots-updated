@@ -1,0 +1,14 @@
+2025/05/26-10:18:19.406 13aa Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/26-10:18:19.406 13aa Recovering log #20
+2025/05/26-10:18:19.406 13aa Reusing old log /home/zoro/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/000020.log 
+2025/05/26-10:18:19.407 13aa Delete type=2 #19
+2025/05/26-10:18:19.448 13ac Level-0 table #25: started
+2025/05/26-10:18:19.450 13ac Level-0 table #25: 10851 bytes OK
+2025/05/26-10:18:19.453 13ac Delete type=0 #20
+2025/05/26-10:18:19.453 13a9 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 4082 : 1
+2025/05/26-10:18:19.453 13a9 Compacting 1@0 + 1@1 files
+2025/05/26-10:18:19.455 13a9 Generated table #26@0: 1364 keys, 16316 bytes
+2025/05/26-10:18:19.455 13a9 Compacted 1@0 + 1@1 files => 16316 bytes
+2025/05/26-10:18:19.457 13a9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:18:19.458 13a9 Delete type=2 #25
+2025/05/26-10:18:19.458 13a9 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 4082 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

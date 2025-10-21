@@ -1,0 +1,17 @@
+2025/06/03-12:02:55.957 66f Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_a-srd.agoda.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-12:02:55.958 66f Recovering log #4
+2025/06/03-12:02:55.960 66f Reusing old log /home/zoro/.config/google-chrome/Default/IndexedDB/https_a-srd.agoda.com_0.indexeddb.leveldb/000004.log 
+2025/06/03-12:03:03.492 66d Level-0 table #8: started
+2025/06/03-12:03:03.495 66d Level-0 table #8: 19737 bytes OK
+2025/06/03-12:03:03.497 66d Delete type=0 #4
+2025/06/03-12:03:03.498 66d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/03-12:04:46.999 66d Level-0 table #10: started
+2025/06/03-12:04:47.002 66d Level-0 table #10: 15054 bytes OK
+2025/06/03-12:04:47.005 66d Delete type=0 #7
+2025/06/03-12:04:47.006 66d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1532 : 1
+2025/06/03-12:04:47.006 66d Compacting 1@0 + 1@1 files
+2025/06/03-12:04:47.010 66d Generated table #11@0: 423 keys, 4688 bytes
+2025/06/03-12:04:47.010 66d Compacted 1@0 + 1@1 files => 4688 bytes
+2025/06/03-12:04:47.012 66d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/03-12:04:47.013 66d Delete type=2 #10
+2025/06/03-12:04:47.013 66d Manual compaction at level-0 from '\x00\x04\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1532 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

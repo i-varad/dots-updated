@@ -1,0 +1,12 @@
+2025/05/27-14:01:48.108 68c Reusing MANIFEST /home/zoro/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/27-14:01:48.109 68c Recovering log #7
+2025/05/27-14:01:48.112 68c Reusing old log /home/zoro/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2025/05/27-14:01:51.181 66e Compacting 1@1 + 1@2 files
+2025/05/27-14:01:51.204 66e Generated table #10@1: 273 keys, 998395 bytes
+2025/05/27-14:01:51.204 66e Compacted 1@1 + 1@2 files => 998395 bytes
+2025/05/27-14:01:51.206 66e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-14:01:51.207 66e Delete type=2 #5
+2025/05/27-14:01:51.207 66e Delete type=2 #8
+2025/05/27-14:02:14.791 66f Level-0 table #12: started
+2025/05/27-14:02:14.850 66f Level-0 table #12: 3112419 bytes OK
+2025/05/27-14:02:14.854 66f Delete type=0 #7
